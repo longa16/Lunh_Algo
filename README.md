@@ -10,7 +10,6 @@ A simple Python project that validates card numbers using the **Luhn algorithm**
 -  Works via command-line input
 -  Automatically handles spaces and formatting
 
----
 
 ## 🧠 How the Luhn Algorithm Works
 
@@ -20,7 +19,6 @@ A simple Python project that validates card numbers using the **Luhn algorithm**
 4. Sum all the digits.
 5. If the total is a multiple of 10, the number is **valid**.
 
----
 
 ## 📦 Installation
 
