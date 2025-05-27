@@ -6,9 +6,9 @@ A simple Python project that validates card numbers using the **Luhn algorithm**
 
 ## 🚀 Features
 
-- ✅ Validates numbers using the Luhn algorithm
-- 🧮 Works via command-line input
-- 🔄 Automatically handles spaces and formatting
+-  Validates numbers using the Luhn algorithm
+-  Works via command-line input
+-  Automatically handles spaces and formatting
 
 ---
 
